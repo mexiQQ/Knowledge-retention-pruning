@@ -1,0 +1,9 @@
+*.pkl
+*.pickle
+*.npy
+*.pyc
+*.bin
+models
+adaptive-package/bloom-176b/
+multiprocess/data
+outputs*/
